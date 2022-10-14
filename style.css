@@ -1,0 +1,127 @@
+.body {
+    position: relative;
+    width: 1920px;
+    height: 3850px;
+    background-color:#020A18 ;
+}
+
+h1 {
+    color: aliceblue;
+    position: absolute;
+width: 484px;
+height: 104px;
+left: 1049px;
+top: 1338px;
+
+
+font-style: normal;
+font-weight: 7000;
+font-size: 40px;
+line-height: 130%;
+}
+
+p {
+    color: #FFFFFF;
+
+    opacity: 0.7;
+    position: absolute;
+width: 460px;
+height: 78px;
+left: 1049px;
+top: 1472px;
+
+
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 160%;
+}
+.text {
+    padding-top: 120px;
+}
+
+img {
+    position: absolute;
+width: 725px;
+height: 669px;
+left: 256px;
+top: 1160px;
+}
+.bt {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    align-items: flex-start;
+    padding: 15px 30px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 150px;
+    height: 52px;
+    left: 1049px;
+    top: 1600px;
+    
+    /* #3A68B8 */
+    
+    background: #3A68B8;
+    border-radius: 5px;
+}
+ span {
+    width: 90px;
+height: 22px;
+
+text-decoration: none;
+
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* #FFFFFF */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+ }
+
+ .lol1 {
+    position: absolute;
+width: 362px;
+height: 389px;
+left: -5px;
+top: 1999px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) -41.9%, #FFFFFF 115.68%);
+opacity: 0.1;
+backdrop-filter: blur(100px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 10px;
+
+ }
+
+ .card {
+    position: absolute;
+width: 362px;
+height: 389px;
+left: -5px;
+top: 1999px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) -41.9%, #FFFFFF 115.68%);
+opacity: 0.1;
+backdrop-filter: blur(100px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 10px;
+
+ }
+  
+
+ 
